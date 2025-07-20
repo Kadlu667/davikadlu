@@ -30,8 +30,9 @@
 
 ## 🛠️ Projetos em Destaque
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+
 
 ## 📊 Estatísticas do GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 
 ## 📍 Onde me encontrar
