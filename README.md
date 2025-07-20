@@ -1,5 +1,9 @@
 # davikadlu
 
+<a href="https://github.com/kadlu667/davikalu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadlu667&repo=davikadlu" />
+</a>
+
 <h1>🖖 Saudações! Perfil do Davi Kadlubiski </h1>
 <br/>
 
@@ -46,3 +50,5 @@
 ## 📍 Onde me encontrar
 <p>Se você gostou deste meu simples README.md, desde já meu agradecimento :)</p>
 <a href='https://www.linkedin.com/in/davi-kadlubiski-8ba114260/'><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5'></a>
+
+(https://github-readme-stats.vercel.app/api/pin/?username=qnhat2004&repo=Subject_at_University&theme=ambient_gradient)
