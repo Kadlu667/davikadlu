@@ -33,6 +33,7 @@
 
 
 ## 📊 Estatísticas do GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=kadlu667&show_icons=true&theme=vue#gh-light-mode-only&icon_color=440439"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kadlu667&show_icons=true&theme=tokyonight"/>
 
 ## 📍 Onde me encontrar
+<a href='https://www.linkedin.com/in/davi-kadlubiski-8ba114260/'><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5'></a>
