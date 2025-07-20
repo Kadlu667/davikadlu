@@ -33,6 +33,6 @@
 
 
 ## 📊 Estatísticas do GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=davikadlu&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=kadlu667&show_icons=true&theme=radical">
 
 ## 📍 Onde me encontrar
