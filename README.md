@@ -1,9 +1,5 @@
 # kadlu667
 
-<a href="https://github.com/kadlu667/davikalu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kadlu667&repo=davikadlu" />
-</a>
-
 <h1>🖖 Saudações! Perfil do Davi Kadlubiski </h1>
 <br/>
 
