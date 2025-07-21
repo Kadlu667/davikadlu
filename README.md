@@ -33,7 +33,7 @@
 
  Foco em produzir e menos em teorias, gostei muito da mecânica<br/>
  em que o node.js entregava os resultados, então aprofundei nas<br/>
- tecnologias próximas a ele, e então optei por ser um «Desenvolvedor Web».<br/> 
+ tecnologias próximas a ele, e optei por ser um «Desenvolvedor Web».<br/> 
  Teoria, Prática e Erro são as etapas que fazem um inexperiente(júnior) ser um Especialista... 
 </div>
 
