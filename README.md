@@ -29,7 +29,7 @@
 
 ## 🛠️ Projetos em Destaque
 <div>
- <p> > [Aguarde um minuto, estamos em obras...👷🏻]</p>
+> https://github.com/davikadlu/Kadlu-Express
 
  Foco em produzir e menos em teorias, gostei muito da mecânica<br/>
  em que o node.js entregava os resultados, então aprofundei nas<br/>
