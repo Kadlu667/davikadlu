@@ -41,7 +41,7 @@
 
 
 ## 📊 Estatísticas do GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=kadlu667&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=davikadlu&show_icons=true&theme=tokyonight"/>
 
 ## 📍 Onde me encontrar
 <p>Se você gostou deste meu simples README.md, desde já meu agradecimento :)</p>
